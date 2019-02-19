@@ -1,5 +1,6 @@
 {
   "name": "data-table-component",
+  "description": "A re-usable angular component that shows a data table in a page",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -22,7 +23,8 @@
     "@angular/router": "^6.1.0",
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.8.26",
+    "@writetome51/paginator-data-controller": "~0.0.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.7.0",
