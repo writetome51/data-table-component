@@ -24,7 +24,8 @@
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0",
     "zone.js": "~0.8.26",
-    "@writetome51/paginator-data-controller": "~0.0.1"
+    "@writetome51/paginator-data-controller": "~0.0.1",
+    "@writetome51/paginator-service": "~1.0.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.7.0",
