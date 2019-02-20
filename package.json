@@ -22,8 +22,9 @@
     "@angular/platform-browser-dynamic": "^6.1.0",
     "@angular/router": "^6.1.0",
     "core-js": "^2.5.4",
-    "rxjs": "^6.0.0",
+    "rxjs": "~6.3.3",
     "zone.js": "~0.8.26",
+    "basic-data-handling": "~1.0.15",
     "@writetome51/paginator-data-controller": "~0.0.1",
     "@writetome51/paginator-service": "~1.0.0"
   },
